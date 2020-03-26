@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Reward_System.dir/main.cpp.o  -o Reward_System 
