@@ -36,7 +36,7 @@ public:
 
 ERS::ERS() {
     cout<<"Enter Subscriber name\t:";
-    //Pcin.ignore();
+    //cin.ignore();
     getline(cin,name);
     cout<<"Enter phone number\t:";
     cin>>phonenumber;
